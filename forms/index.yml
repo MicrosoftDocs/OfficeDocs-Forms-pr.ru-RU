@@ -1,0 +1,26 @@
+### YamlMime:Hub
+title: Администратор Microsoft Forms
+summary: 'С помощью Microsoft Forms вы можете легко создавать опросы, тесты и другие типы форм. С помощью практически любого веб-браузера или мобильного устройства вы можете приглашать людей отвечать на вашу форму, просматривать результаты в режиме реального времени по мере их отправки, использовать встроенную аналитику для оценки ответов и экспортировать результаты в Excel для дополнительного анализа или оценки. Служба Forms обычно доступна клиентам Office 365 для образования, клиентам Приложений Microsoft 365 для бизнеса и клиентам с учетной записью Майкрософт (Hotmail, Live или Outlook.com).'
+brand: m365
+metadata:
+  title: Администратор Microsoft Forms
+  description: Обзор администратора Microsoft Forms
+  ms.service: Forms Admin
+  ms.topic: hub-page
+  audience: ITPro
+  author: samanro
+  ms.author: samanro
+  ms.date: 11/03/2021
+  localization_priority: Priority
+additionalContent:
+  sections:
+    - title: Для ИТ-специалистов
+      items:
+        - title: Администраторы
+          summary: Узнайте о параметрах администратора Forms и о настройке Forms для потребностей организации
+          url: /microsoft-forms/administrator-settings-microsoft-Forms
+    - title: Другие аудитории
+      items:
+        - title: Конечные пользователи
+          summary: 'Создание, отправка и анализ формы, теста или опроса'
+          url: 'https://support.microsoft.com/forms'

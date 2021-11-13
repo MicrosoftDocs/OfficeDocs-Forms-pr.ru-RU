@@ -1,0 +1,14 @@
+- name: Администратор Microsoft Forms
+  href: index.yml
+- name: Параметры администратора для Microsoft Forms
+  href: /microsoft-forms/administrator-settings-microsoft-Forms
+- name: Настройка Microsoft Forms
+  href: /microsoft-forms/set-up-microsoft-forms
+- name: Включение и отключение Microsoft Forms
+  href: /microsoft-forms/turn-off-turn-on-microsoft-forms
+- name: 'Сведения для администраторов: вопросы и ответы'
+  href: /microsoft-forms/admin-information
+- name: 'Проверка и разблокировка форм или пользователей, обнаруженных и заблокированных из-за потенциального фишинга'
+  href: /microsoft-forms/review-unblock-forms-users-detected-blocked-potential-phishing
+- name: Microsoft Forms и учетные записи пользователей
+  href: /microsoft-forms/microsoft-forms-user-accounts
